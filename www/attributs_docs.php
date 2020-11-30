@@ -12,7 +12,7 @@
 /**
 * @Route("/api/articles/{id}", methods={"GET", "HEAD"})
 */
-class User7
+class User
 {}
 
 ?>
